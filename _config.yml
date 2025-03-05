@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: һέ�Ĳ���
-subtitle: ''
-description: ''
+title: 一苇的博客
+subtitle: Welcome
+description: It's a first time for everything!
 keywords:
-author: һέ
-language: zh
+author: 一苇
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
